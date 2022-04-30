@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @muuratjann
-- 👀 I’m interested in anything related to math or stats
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on anything from which I can learn something new
 - 📫 How to reach me kmuratjan@gmail.com
 
 <!---
